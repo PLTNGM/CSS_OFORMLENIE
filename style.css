@@ -1,0 +1,90 @@
+/* 1 */
+#elem {
+	width: 300px;
+	height: 300px;
+	color: rgb(89, 0, 255);
+	background-color: rgb(89, 0, 255); /* задаем оранжевый цвет фона */
+    border-radius: 10px;
+    padding: 10px;
+}
+.zad93 {background-color: aquamarine; color:aliceblue; text-align: center; width: 300px; height: 200px;}
+
+/*2*/
+
+#border94 {
+	border-width: 3px;    /* толщина 3px */
+	border-style: solid;  /* в виде линии */
+	border-color: red;    /* красный цвет */
+	width: 300px;
+	height: 100px;
+}
+
+/* 3 */
+#border95 {
+	border-width: 3px;
+	border-style: solid;
+	border-color: rgb(21, 0, 255);
+	width: 300px;
+	height: 200px;
+    
+}
+
+/* 4 */
+#border96 {border-width: 4px;
+	border-style: dotted;
+	border-color: red;
+	width: 300px;
+	height: 200px;}
+
+/* 5 */
+#border97 {
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+	width: 300px;
+	height: 200px;
+    }
+
+/* 6 */
+#border98{
+	border-width: 3px;
+	border-style: ridge;
+	border-color: black;
+	width: 300px;
+	height: 100px;
+}
+
+/* 7 */
+#border99{border-width: 7px;
+	border-style: double;
+	border-color: rgb(17, 0, 255);
+	width: 300px;
+	height: 200px;}
+
+/* 8 */
+#border100{border: 1px solid red;
+	width: 400px;
+	height: 200px;}
+#border1002{border: 3px dotted blue;
+	width: 400px;
+	height: 200px;}
+#border1003{border: 3px dashed green;
+	width: 400px;
+	height: 200px;}
+#border1004{border: 5px double orange;
+	width: 400px;
+	height: 200px;}
+
+/* 9 */
+#border101{width: 300px;
+    	height: 200px;
+        border-left: 3px solid orange;
+        border-top: 3px solid blue;
+        border-bottom: 3px solid red;
+        border-right: 3px solid green;}
+#border1012{width: 300px;
+    	height: 200px;
+        border-left: 3px solid red;
+        border-top: 1px solid blue;
+        border-bottom: 1px solid blue;
+        border-right: 3px dotted green;}
