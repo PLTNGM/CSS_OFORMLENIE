@@ -1,2 +1,2 @@
 # CSS_OFORMLENIE
-Жоский крутейший сайт Гимп Платона и Йорика
+krutoi sait platona i yorika
